@@ -6,7 +6,7 @@ function App() {
     <div className="App bg-blue-300 h-screen flex justify-center items-center p-5">
       <div className="container bg-white flex  items-center w-auto  p-5 flex-col h-auto rounded-2xl ">
         <img
-          src="../public/images/image-qr-code.png"
+          src="https://res.cloudinary.com/dfhzlrudu/image/upload/v1677774141/image-qr-code_tyurgd.png"
           className="  h-72  rounded-2xl"
           alt=""
         />
